@@ -1,0 +1,14 @@
+Nome: 
+Gênero: Ação/Roguelike
+
+Conceito:
+Jogo roguelike sobre um personagem que usa uma lança, passando por várias salas após matar todos os monstros monstros
+(dropam ouro/moedas), ganhando poderes bônus aleatoriamente
+você pode desbloquear novos personagens (espada, arco, etc) por certo valor de moedas
+Depois de x salas aleatórias (entre 5 e 10), aparecerá um boss, sendo bem mais difícil que uma sala comum
+Existiram 2/3 estilos de dungeon diferentes para você passar sobre
+preferencialmente totalmente aleatório, de estilo de sala a monstros na sala
+
+História:
+
+
