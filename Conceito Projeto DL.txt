@@ -10,35 +10,21 @@ Existiram 2/3 estilos de dungeon diferentes para você passar sobre
 preferencialmente totalmente aleatório, de estilo de sala a monstros na sala
 
 Universo:
-Invasão alien
-Apocalipse Zumbi
-Armageddon
-Falha em um laboratório (Você é a falha)*
-Falha em um laboratório (Monstros foram soltos pelo mundo)*
-Exploração em um universo alternativo
-Missão espacial dá errado
+Falha em um laboratório (Monstros foram soltos pela cidade)*
 
-Na cidade X do país X, um experimento de uma empresa de experimentos científicos com métodos duvidosos chamado X
-foi descoberta pelos seus métodos desumanos de experimentos, após estes acontecimentos, X utilizou seus experimentos para 
-causar caos na cidade X, caso o governo não consiga parar X o cientista, pode ser que o mundo inteiro seja afetado. 
-Por isso, o governo X, decidiu utilizar sua arma secreta, um superhumano chamado lance para conseguir destruir X
+Na cidade de nova york, um experimento de uma empresa de experimentos científicos com métodos duvidosos chamado Prism Corporation
+foi descoberta pelos seus métodos desumanos de experimentos, após estes acontecimentos, Amabo utilizou seus experimentos para 
+causar caos na cidade, caso o governo não consiga parar Amabo o cientista, pode ser que o mundo inteiro seja afetado. 
+Por isso, o governo dos Estados Unidos, decidiu utilizar sua arma secreta, um superhumano chamado lance para conseguir destruir Prism
 
 Inspirado +- em resident evil
 
 Estilo de Gameplay:
 Câmera vertical - Binding of Isaac / Hades
-Câmera Horizontal - Metroidvania
 
 Salas - Binding of Isaac / Hades
-Um mapa Grande - Metroidvania
 
-
-Futuro apocalíptico
 Presente 
-Presente fora do comum
-Passado
-
-
 
 História:
 
