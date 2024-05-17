@@ -1,4 +1,4 @@
-Será um jogo de plataforma, 2d e pixel art onde o protagonista é a deusa Artemis que andará pelo mundo caçando monstros até chegar em seu objetivo final de vencer seu maior rival, o Gigante Órion.
+Será um jogo de plataforma, 2d e pixel art onde o protagonista é a deusa Artemis, que andará pelo mundo caçando monstros até chegar em seu objetivo final de vencer seu maior rival, o Gigante Órion.
 O jogo contará com diversos cenários, personagens e itens da mitologia grega que proporcionará ao jogador uma mini experiêcia mitológica da historia da famosa deusa Artemis.
 
 História:
